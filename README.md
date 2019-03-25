@@ -11,6 +11,6 @@
 
 
 ### The tests: 
-1) Search bar
-2) Access main header and click on MEN / New Arrivals 
+1) Locate search bar and enter text
+2) Remove location pop-up, access main header and click on MEN / New Arrivals
 3) Go to Register form, accept Cookies and complete some fields
