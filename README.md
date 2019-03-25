@@ -18,7 +18,5 @@
 
 ### Test Specifications: 
 TC1) Locate search bar and enter text
-
 TC2) Remove location pop-up, access main header and click on MEN / New Arrivals
-
 TC3) Go to Register form, accept Cookies and complete some fields
