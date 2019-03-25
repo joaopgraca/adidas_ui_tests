@@ -4,6 +4,11 @@
 
 > Made with SeleniumBase framework
 
+### Requirements:
+- Python 3.7
+- Selenium
+
+
 ### How to run:
 1. Access */examples* folder
 2. Execute **RUN.sh** (wich runs **test_suite_adidas.py** script) file
