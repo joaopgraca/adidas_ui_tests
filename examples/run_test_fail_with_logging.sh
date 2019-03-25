@@ -1,0 +1,1 @@
+nosetests test_fail.py --with-testing_base
